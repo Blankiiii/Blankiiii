@@ -19,6 +19,6 @@
 
 
 <p>
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=blankiiii&show_icons=true&theme=dark&locale=en" alt="blankiiii" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=blankiiii&show_icons=true&theme=dark&locale=en&layout=compact" alt="blankiiii" />
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=blankiiii&show_icons=true&theme=dark&locale=en" alt="blankiiii" />
 </p>
