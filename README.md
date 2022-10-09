@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Blank</h1>
 <h3 align="center">A passionate Hobby Developer from Germany</h3>
-<img align="right" alt="Coding" width="220" src="https://c.tenor.com/DBqjevyA2o4AAAAM/bongo-cat-codes.gif">
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/DBqjevyA2o4AAAAM/bongo-cat-codes.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blankiiii&label=Profile%20views&color=0e75b6&style=flat" alt="blankiiii" /> </p>
