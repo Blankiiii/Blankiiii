@@ -3,8 +3,6 @@
 <img align="right" alt="Coding" width="350" src="https://c.tenor.com/DBqjevyA2o4AAAAM/bongo-cat-codes.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=blankiiii&label=Profile%20views&color=0e75b6&style=flat" alt="blankiiii" /> </p>
-
 - 🌱 I’m currently learning **lua, html, css**
 
 <h3 align="left">Connect with me:</h3>
