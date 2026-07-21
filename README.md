@@ -11,8 +11,8 @@
 - ⚡ Fun fact **javascript was never intended to do everything its able to do rn**
 
 <h3 align="left">Connect with me:</h3>
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/1059450131784663120) 
 <p align="left">
+  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/1059450131784663120)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
